@@ -1,0 +1,2 @@
+venv/bin/python src/pricing_engine.py
+venv/bin/python -m streamlit run dashboard/streamlit_app.py
